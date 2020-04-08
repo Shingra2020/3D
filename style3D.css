@@ -89,18 +89,18 @@
 }
 .a1 h4 {
     font-size: 13px;
-    border: 1px solid rgb(206, 240, 214);
+    border: 1px solid rgb(173, 179, 170);
     transition: ease-in .25s all;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-bottom: 15px;
     padding-left: 10px;
-    background-color: rgb(206, 240, 214);
+    background-color: rgb(173, 179, 170);
     
 }
 .a1 h4:hover{
-    border: 1px solid rgb(159, 233, 178);
-    background-color: rgb(159, 233, 178);
+    border: 1px solid rgb(130, 163, 138);
+    background-color: rgb(130, 163, 138);
     letter-spacing: 1.8px;
 }
 
