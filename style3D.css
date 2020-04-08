@@ -56,6 +56,14 @@
     justify-content: space-between;
     
 }
+.ctr h2, h1{
+    text-align-last: center;
+}
+.ctr p{
+    padding-top: 50px;
+    font-size: 20px;
+    text-align-last: start:
+}
 .a1 {
     
     border: 1px solid #fff;
@@ -75,6 +83,22 @@
     
 }
 .a1 h3:hover{
+    border: 1px solid rgb(159, 233, 178);
+    background-color: rgb(159, 233, 178);
+    letter-spacing: 1.8px;
+}
+.a1 h4 {
+    font-size: 13px;
+    border: 1px solid rgb(206, 240, 214);
+    transition: ease-in .25s all;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    background-color: rgb(206, 240, 214);
+    
+}
+.a1 h4:hover{
     border: 1px solid rgb(159, 233, 178);
     background-color: rgb(159, 233, 178);
     letter-spacing: 1.8px;
