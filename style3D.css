@@ -88,6 +88,7 @@
     letter-spacing: 1.8px;
 }
 .a1 h4 {
+    text-align-last: center;
     font-size: 13px;
     border: 1px solid rgb(173, 179, 170);
     transition: ease-in .25s all;
